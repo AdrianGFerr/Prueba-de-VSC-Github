@@ -1,0 +1,18 @@
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
+
+$primary: #c2163b;
+
+.flex.container{
+    display:flex;   
+}
+
+
+
+.row{
+   margin: 5px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   background-color: chartreuse;
+   border-color: black;
+   color: #c2163b;
+}
